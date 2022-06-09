@@ -1,7 +1,7 @@
 export const productListWork = [
       {
             id: 1,
-            img:"./src/img/comtusoi.jpg",
+            img:"https://picsum.photos/246/180",
             title_head:"Designing Dashboards",
             year:2020,
             title_j:"Dashboard",
