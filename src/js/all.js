@@ -45,10 +45,10 @@ function footer() {
       const footer = `
       <div class="max-w-screen-lg mx-auto mt-[108px]">
             <div class="flex justify-center space-x-8 mb-4 text-[30px]">
-                        <div class="ti-facebook " ></div>
-                        <div class="ti-instagram"></div>
-                        <div class="ti-twitter-alt"></div>
-                        <div class="ti-linkedin"></div>
+                  <i class="fa-brands fa-facebook-square"></i>
+                  <i class="fa-brands fa-instagram"></i>
+                  <i class="fa-brands fa-twitter"></i>
+                  <i class="fa-brands fa-linkedin"></i>
             </div>
             <div class="text-center mb-10">
                   <span>Copyright ©2020 All rights reserved </span>
