@@ -19,7 +19,7 @@ function showProducts(products){
             ${product.short_description}
        </p>
 
-       <img src="${product.img1}" class="h-[460px] py-11 w-full inline-block" alt="">
+       <img src="${product.img1}" class="h-[256px] md:h-[460px] py-11 w-full inline-block" alt="">
 
        <h3 class="text-[26px] md:text-[30px] font-medium text-[#21243D]">
        ${product.heading1}
@@ -34,8 +34,8 @@ function showProducts(products){
 
         </p>
 
-       <img src="${product.img2}" class="h-[460px] py-3 w-full inline-block" alt="">
-       <img src="${product.img3}" class="h-[460px] py-3 w-full inline-block" alt="">
+       <img src="${product.img2}" class="h-[256px] md:h-[460px] py-3 w-full inline-block" alt="">
+       <img src="${product.img3}" class="h-[256px] md:h-[460px] py-3 w-full inline-block" alt="">
             `
       
       return resust;
