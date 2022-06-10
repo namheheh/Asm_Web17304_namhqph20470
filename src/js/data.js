@@ -1,7 +1,7 @@
 export const productListWork = [
       {
             id: 1,
-            img:"./src/img/Rectangle30.jpg",
+            img:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654872696/img_asm1/Rectangle30_vdubax.jpg",
             title_head:"Designing Dashboards",
             year:2020,
             title_j:"Dashboard",
@@ -10,7 +10,7 @@ export const productListWork = [
 
       {
             id: 2,
-            img:"./src/img/Rectangle32.jpg",
+            img:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654872701/img_asm1/Rectangle32_fnjhmx.jpg",
             title_head:"Vibrant Portraits of 2020",
             year:2018,
             title_j:"Illustration",
@@ -19,7 +19,7 @@ export const productListWork = [
 
       {
             id: 3,
-            img:"./src/img/Rectangle34.jpg",
+            img:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654872701/img_asm1/Rectangle34_goip7o.jpg",
             title_head:"36 Days of Malayalam type",
             year:2018,
             title_j:"Typography",
@@ -28,7 +28,7 @@ export const productListWork = [
 
       {
             id: 4,
-            img:"./src/img/Rectangle40.jpg",
+            img:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654872701/img_asm1/Rectangle40_o7sdep.jpg",
             title_head:"Components",
             year:2018,
             title_j:"Components, Design",
@@ -86,12 +86,12 @@ export const productListWorkDetail =[
             year:2020,
             majors:"Design, Pattern",
             short_description:"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-            img1:"./src/img/Rectangle4.png",
+            img1:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654843742/img_asm1/Rectangle4_pvi8mf.png",
             heading1:"Heading 1",
             heading2:"Heading 2",
             description:"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-            img2:"./src/img/Rectangle5.png",
-            img3:"./src/img/Rectangle6.png",
+            img2:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654872684/img_asm1/Rectangle5_roqlws.png",
+            img3:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654872691/img_asm1/Rectangle6_mmpjv3.png",
       },
       {
             id:2,
@@ -99,12 +99,12 @@ export const productListWorkDetail =[
             year:2020,
             majors:"Design, Pattern",
             short_description:"Amet mgregret ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-            img1:"./src/img/Rectangle4.png",
+            img1:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654843742/img_asm1/Rectangle4_pvi8mf.png",
             heading1:"Heading 1",
             heading2:"Heading 2",
             description:"Amet minigẻgrelamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-            img2:"./src/img/Rectangle5.png",
-            img3:"./src/img/Rectangle6.png",
+            img2:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654872684/img_asm1/Rectangle5_roqlws.png",
+            img3:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654872691/img_asm1/Rectangle6_mmpjv3.png",
       },
       {
             id:3,
@@ -112,12 +112,12 @@ export const productListWorkDetail =[
             year:2020,
             majors:"Design",
             short_description:"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-            img1:"./src/img/Rectangle4.png",
+            img1:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654843742/img_asm1/Rectangle4_pvi8mf.png",
             heading1:"Heading 1",
             heading2:"Heading 2",
             description:"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-            img2:"./src/img/Rectangle5.png",
-            img3:"./src/img/Rectangle6.png",
+            img2:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654872684/img_asm1/Rectangle5_roqlws.png",
+            img3:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654872691/img_asm1/Rectangle6_mmpjv3.png",
       },
       {
             id:4,
@@ -125,12 +125,12 @@ export const productListWorkDetail =[
             year:2020,
             majors:" Pattern",
             short_description:"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-            img1:"./src/img/Rectangle4.png",
+            img1:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654843742/img_asm1/Rectangle4_pvi8mf.png",
             heading1:"Heading 1",
             heading2:"Heading 2",
             description:"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-            img2:"./src/img/Rectangle5.png",
-            img3:"./src/img/Rectangle6.png",
+            img2:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654872684/img_asm1/Rectangle5_roqlws.png",
+            img3:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654872691/img_asm1/Rectangle6_mmpjv3.png",
       },
 ]
 
