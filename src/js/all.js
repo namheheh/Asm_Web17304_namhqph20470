@@ -21,9 +21,9 @@ function elementMenu() {
       </div>
 
       <div id="menu" class="hidden text-center md:flex md:justify-end space-x-8 mt-6 font-medium text-[20px] text-[#000000] " >
-            <a href="./works.html" >Works</a>
-            <a href="./blog.html">Blog</a>
-            <a href="./contact.html">Contact</a>
+            <a href="./works.html" class="hover:text-[#FF6464]">Works</a>
+            <a href="./blog.html" class="hover:text-[#FF6464]">Blog</a>
+            <a href="./home.html" class="hover:text-[#FF6464]">Contact</a>
       </div>
       
       `
