@@ -9,7 +9,7 @@ function showProducts(products){
               <div class="mt-7 mb-3 md:flex md:space-x-4">
             <img src="${products[i].img}" alt="" class="rounded mx-auto w-[339px] h-[230px] md:w-[246px] md:h-[180px]">
             <div>
-                  <a href="./works-detail.html?id=${products[i].id}" class="font-bold text-[24px] block mt-4 md:mt-0 text-[24px]  md:text-[30px] text-[#21243D]">
+                  <a href="./works-detail.html?id=${products[i].id}" class="font-bold text-[24px] block mt-4 md:mt-0 text-[24px]  md:text-[30px] text-[#21243D] inline-block">
                   ${products[i].title_head}
                   </a>
                   <div class="flex space-x-8 my-5">
