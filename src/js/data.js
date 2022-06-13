@@ -82,7 +82,7 @@ export const productListBlog = [
 export const productListWorkDetail =[
       {
             id:1,
-            title:"Designing Dashboards with usability in mind",
+            title:"Designing Dashboards",
             year:2020,
             majors:"Design, Pattern",
             short_description:"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
@@ -95,9 +95,9 @@ export const productListWorkDetail =[
       },
       {
             id:2,
-            title:"Designing Dashboarvdfvfdity in mind",
-            year:2020,
-            majors:"Design, Pattern",
+            title:"Vibrant Portraits of 2020",
+            year:2018,
+            majors:"Illustration",
             short_description:"Amet mgregret ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
             img1:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654843742/img_asm1/Rectangle4_pvi8mf.png",
             heading1:"Heading 1",
@@ -108,9 +108,9 @@ export const productListWorkDetail =[
       },
       {
             id:3,
-            title:"Designing Dashboards with usability in mind",
-            year:2020,
-            majors:"Design",
+            title:"36 Days of Malayalam type",
+            year:2018,
+            majors:"Typography",
             short_description:"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
             img1:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654843742/img_asm1/Rectangle4_pvi8mf.png",
             heading1:"Heading 1",
@@ -121,9 +121,9 @@ export const productListWorkDetail =[
       },
       {
             id:4,
-            title:"Designing Dashboards with usability in mind",
-            year:2020,
-            majors:" Pattern",
+            title:"Components",
+            year:2018,
+            majors:"Components, Design",
             short_description:"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
             img1:"https://res.cloudinary.com/https-ass-web17304-namhqph20470-vercel-app-index-html/image/upload/v1654843742/img_asm1/Rectangle4_pvi8mf.png",
             heading1:"Heading 1",
